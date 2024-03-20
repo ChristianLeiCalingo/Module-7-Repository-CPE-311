@@ -1,6 +1,7 @@
 # Module-7-Repository-CPE-311
 
 SEATWORK 7.1:
+
 7.2 Colab Link:
 https://colab.research.google.com/drive/1FnPL7EfHsPxRreLFDRcRzlVZXsL_g3lz?usp=sharing
 
