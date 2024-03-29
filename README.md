@@ -15,7 +15,11 @@ https://colab.research.google.com/drive/1llAN27suTzPDCatjA2PRc7-uodSgyjpB?usp=sh
 https://colab.research.google.com/drive/1BT73ohTLFtljjErQengHLQy4WyQB0VKM?usp=sharing
 
 
-HOA 7.1
+Hands On Activity 7.1
 
 COLAB LINK:
 https://colab.research.google.com/drive/1wW8WQs-xEas33MyeYJIRgyPjsGVxRn5V?usp=sharing
+
+Hands On Activity 7.2
+COLAB LINK:
+https://colab.research.google.com/drive/18UTIoEYjQUEf1C4qzBQZ2DmceFfjOYTf?usp=sharing
